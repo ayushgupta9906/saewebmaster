@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/saewebmaster/static/css/main.694d0eaa.css",
-    "main.js": "/saewebmaster/static/js/main.655f2029.js",
+    "main.js": "/saewebmaster/static/js/main.966dd81e.js",
     "static/js/787.3e20cf69.chunk.js": "/saewebmaster/static/js/787.3e20cf69.chunk.js",
     "static/media/video Homepage.mp4": "/saewebmaster/static/media/video Homepage.427594c9a8979773cb68.mp4",
     "static/media/video Homepage1.mp4": "/saewebmaster/static/media/video Homepage1.ef055448b2750351f1a8.mp4",
@@ -23,11 +23,11 @@
     "index.html": "/saewebmaster/index.html",
     "static/media/triangle.svg": "/saewebmaster/static/media/triangle.8ce3fb1bd7f9efc03d47.svg",
     "main.694d0eaa.css.map": "/saewebmaster/static/css/main.694d0eaa.css.map",
-    "main.655f2029.js.map": "/saewebmaster/static/js/main.655f2029.js.map",
+    "main.966dd81e.js.map": "/saewebmaster/static/js/main.966dd81e.js.map",
     "787.3e20cf69.chunk.js.map": "/saewebmaster/static/js/787.3e20cf69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.694d0eaa.css",
-    "static/js/main.655f2029.js"
+    "static/js/main.966dd81e.js"
   ]
 }
